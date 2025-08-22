@@ -1,0 +1,5 @@
+{
+  "name": "Rust Roadmap Visualizer",
+  "description": "An interactive web application to learn about Rust's type system philosophy using the state type pattern and trait-based logic.",
+  "requestFramePermissions": []
+}
